@@ -10,6 +10,8 @@ You will see your post update as you make changes. Don't forget to save your MD 
 
 Yeah seriously I just want to fix this....
 
+HOw bout now?
+
 - Use h2 for headings
 - h1 is already reserved for your posts title.
 
