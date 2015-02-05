@@ -1,5 +1,7 @@
 ## Markdown authoring from github
 
+This is so cool, I'm going to update my git repo.
+
 Type markdown to author your post...
 
 You will see your post update as you make changes. Don't forget to save your MD as you go!
