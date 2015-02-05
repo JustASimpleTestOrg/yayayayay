@@ -1,4 +1,4 @@
-## Markdown authoring
+## Markdown authoring from github
 
 Type markdown to author your post...
 
