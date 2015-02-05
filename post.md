@@ -1,6 +1,6 @@
 ## Markdown authoring from github fork
 
-This is so cool, I'm going to update my git repo.
+This is so cool, I'm going to update my git repo. updated.
 
 Type markdown to author your post...
 
