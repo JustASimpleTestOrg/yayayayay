@@ -8,6 +8,8 @@ You will see your post update as you make changes. Don't forget to save your MD 
 
 ## Headings
 
+Yeah seriously I just want to fix this....
+
 - Use h2 for headings
 - h1 is already reserved for your posts title.
 
